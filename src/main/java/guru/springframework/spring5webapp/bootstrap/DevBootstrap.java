@@ -1,4 +1,4 @@
-package guru.springframework.spring5webapp.BootStrap;
+package guru.springframework.spring5webapp.bootstrap;
 
 import guru.springframework.spring5webapp.model.Author;
 import guru.springframework.spring5webapp.model.Book;
